@@ -1,0 +1,15 @@
+{
+  "name": "vidamrr/poo",
+  "autoload": {
+    "psr-4": {
+      "Vidamrr\\Poo\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Marcos Rivas",
+      "email": "test@gmail.com"
+    }
+  ],
+  "require": {}
+}
